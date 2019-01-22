@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "title": "Vue Calculator",
+        "link": "https://reverent-fermat-cd3243.netlify.com/",
+        "text": "A Calculator using Vue.",
+        "tech": "Built with Vue.js, modern CSS",
+        "src": "https://github.com/DanSimonson/vue-calculator"
+    },
+    {
+        "id": 2,
+        "title": "React Calculator",
+        "link": "http://adventurous-step.surge.sh/",
+        "text": "A Calculator using React.",
+        "tech": "Built with React.js, modern CSS",
+        "src": "https://github.com/DanSimonson/calculator-with-react"
+    }
+]

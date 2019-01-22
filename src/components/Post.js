@@ -5,12 +5,11 @@ import './Post.css'
 import calculator from '../reactCalculator.jpg'
 
 class Post extends Component {
-    //<li key={i}><a href={"http://"+url}>{url}</a></li>
     render() {
         return (
-            <div className="Postit">
-                <h2>It was the best of times to program and it was the worst of times to program.</h2>
-                <h1>A tale of two JavaScript Frameworks</h1>
+            <div className="postit">
+                <h2 className="heading">It was the best of times to program and it was the worst of times to program.</h2>
+                <h1 className="heading">A tale of two JavaScript Frameworks</h1>
                 <div className='my-grid' >
                     {PostData.map((postDetail, index) => {
                         return (

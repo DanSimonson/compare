@@ -1,3 +1,11 @@
+
+@import url('https://fonts.googleapis.com/css?family=Old+Standard+TT');
+
+.postit{
+    font-family: 'Old Standard TT', serif;
+    color: #555;
+}
+
 .my-grid{
     /*display: grid;
     grid-template-columns: (2, 1fr);*/
@@ -40,4 +48,7 @@
 .myButton:active {
 	position:relative;
 	top:1px;
+}
+.details p{
+    font-size: 1.5rem;
 }

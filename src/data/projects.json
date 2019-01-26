@@ -10,7 +10,7 @@
     {
         "id": 2,
         "title": "React Calculator",
-        "link": "http://acceptable-pipe.surge.sh/",
+        "link": "https://heuristic-franklin-54e3d6.netlify.com/",
         "text": "A Calculator using React.",
         "tech": "Built with React.js, modern CSS",
         "src": "https://github.com/DanSimonson/my-react-calculator"
